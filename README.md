@@ -1,7 +1,6 @@
 # Think-cell
 
 
-```markdown
 # 📊 Business Case Study Using Think-Cell for Telecom Revenue & Retention Analysis
 
 ## 🎯 Project Objective
@@ -105,13 +104,9 @@ Each slide in the presentation answers a strategic business question using:
 └── sample\_dataset\_e&.xlsx
 📁 /slides
 └── think-cell\_case\_study\_e&.pptx
-📁 /docs
-└── chart\_formulas\_and\_metrics.pdf
 📄 README.md
 
 ```
-
----
 
 ## 🧠 Conclusion
 
